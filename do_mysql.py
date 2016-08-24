@@ -21,7 +21,7 @@ print('rowcount =', cursor.rowcount)
 conn.commit()
 cursor.close()
 
-#
+#1111
 # # 运行查询:
 # cursor = conn.cursor()
 # cursor.execute('select * from user where id = %s', ('1',))
